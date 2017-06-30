@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVCApp</string>
+
+    <string name="extra_client">CHOSEN ONE</string>
+
+    <string name="button_submit">Submit</string>
+    <string name="button_clients">Get clients</string>
+
+    <string name="edit_email">E-mail</string>
+    <string name="edit_password">Password</string>
+
+    <string name="toast_login_error">Error, please check your internet connection</string>
+    <string name="toast_error">Error</string>
+    <string name="toast_update_success">Update successful</string>
+
+    <string name="menu_title_clients_add">Add</string>
+</resources>
